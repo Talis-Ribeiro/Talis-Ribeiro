@@ -3,7 +3,7 @@
 Eu sou **Talis Ribeiro**, atualmente sou estudante na Cubos Academy, no curso de **Desenvolvimento de Software com foco em Back-End**
 
 
-## :point_right: Para me encontrar:
+## :point_right: Para encontrar-me:
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talis-ribeiro/)
