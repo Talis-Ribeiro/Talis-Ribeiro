@@ -1,6 +1,6 @@
 # Olá Pessoal! :vulcan_salute:
 
-Eu sou **Talis Ribeiro**, atualmente sou estudante na Cubos Academy, no curso de **Desenvolvimento de Software com foco em Back-End**
+Eu sou **Talis Ribeiro**, estou em transição de carreira, sou formado no curso de **Desenvolvimento de Software com foco em Back-End**, estudando no momento, o front-end com react e cursando Engenharia de Software na faculdade Anhanguera, apaixonado pelo desenvolvimento, seja ele no back ou no front, busco todos os dias a evolução de conhecimentos e projetos.
 
 
 ## :point_right: Para encontrar-me:
